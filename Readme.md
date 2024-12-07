@@ -28,7 +28,7 @@ Our approach is a **non-invasive system** that works as follows:
 ## Updates and Confidentiality
 To ensure the confidentiality of our work and to allow for further fine-tuning and improvements, we have decided not to share the code or dataset publicly at this time. Instead, we have created an **unlisted video** showcasing the current progress and functionality of our product.
 
-[![Watch the video](https://via.placeholder.com/1200x675.png?text=Click+to+Watch)](https://youtu.be/tXiVuTLMv98?si=qoAPhHJ2jP78Kivw)
+[![Watch the video](https://raw.githubusercontent.com/mithilai/Diabetes-Pred-IoT-ML/main/thumbnail%20page.png)](https://youtu.be/tXiVuTLMv98?si=qoAPhHJ2jP78Kivw)
 
 ---
 
